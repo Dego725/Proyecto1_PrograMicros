@@ -3,7 +3,7 @@
 ; IE2023: Programación de Microcontroladores
 ; Lab1.asm
 ; Autor  : Diego Alexander Rodriguez Garay
-; Proyecto: Contador de segundos
+; Proyecto: Proyecto 1 Reloj
 ; Hardware: ATmega328P
 ; Creado  : 11/02/2025
 ;************************************************************  
